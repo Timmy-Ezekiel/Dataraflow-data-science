@@ -66,7 +66,7 @@ Through the work in this repository, I practiced and developed skills in:
 
 ## Author
 
-**Timmy Ezekiel**
+**Oluwatuyi Oluwatimilehin**
 GitHub: [@Timmy-Ezekiel](https://github.com/Timmy-Ezekiel)
 InternID: DF-2026-091
 ---
