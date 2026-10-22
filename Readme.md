@@ -21,6 +21,7 @@ Dataraflow-data-science/
 ├── week2/          # Week 2 materials
 ├── week3/          # Week 3 materials
 ├── week6/          # Week 6 materials
+├── week7/          # Week 7 materials
 ├── .gitignore
 └── README.md
 ```
